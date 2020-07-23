@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/save-time-with-allplants/static/css/main.3939d98b.chunk.css",
+    "main.js": "/save-time-with-allplants/static/js/main.62b07d34.chunk.js",
+    "main.js.map": "/save-time-with-allplants/static/js/main.62b07d34.chunk.js.map",
+    "runtime-main.js": "/save-time-with-allplants/static/js/runtime-main.0f40f79f.js",
+    "runtime-main.js.map": "/save-time-with-allplants/static/js/runtime-main.0f40f79f.js.map",
+    "static/js/2.8b7e9912.chunk.js": "/save-time-with-allplants/static/js/2.8b7e9912.chunk.js",
+    "static/js/2.8b7e9912.chunk.js.map": "/save-time-with-allplants/static/js/2.8b7e9912.chunk.js.map",
+    "index.html": "/save-time-with-allplants/index.html",
+    "precache-manifest.431197b054620db894e0f2463a3d79a4.js": "/save-time-with-allplants/precache-manifest.431197b054620db894e0f2463a3d79a4.js",
+    "service-worker.js": "/save-time-with-allplants/service-worker.js",
+    "static/css/main.3939d98b.chunk.css.map": "/save-time-with-allplants/static/css/main.3939d98b.chunk.css.map",
+    "static/js/2.8b7e9912.chunk.js.LICENSE.txt": "/save-time-with-allplants/static/js/2.8b7e9912.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/save-time-with-allplants/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f40f79f.js",
+    "static/js/2.8b7e9912.chunk.js",
+    "static/css/main.3939d98b.chunk.css",
+    "static/js/main.62b07d34.chunk.js"
+  ]
+}
