@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'filson-pro, Arial, sans-serif';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'filson-pro, Arial, sans-serif'
+    monospace;
+}
